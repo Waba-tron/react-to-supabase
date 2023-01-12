@@ -1,0 +1,4 @@
+export const REACT_APP_SUPABASE_URL =
+    "https://qytprlwiowaqqrjfkukn.supabase.co";
+export const REACT_APP_SUPABASE_KEY =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF5dHBybHdpb3dhcXFyamZrdWtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzM1Mzg4NjEsImV4cCI6MTk4OTExNDg2MX0.u7FFM1qIu7V3IdD5E63BaoQQf7XnT9gYzpd6AM4nuU8";
